@@ -5,8 +5,8 @@ class CalcTest {
 
   @Test
   void add() {
-    int result = Calc.add(6, 1);
-    assertEquals(result, 7);
+    int result = Calc.add(6, 2);
+    assertEquals(result, 8);
   }
 
   @Test
