@@ -7,7 +7,6 @@
   <groupId>10176492</groupId>
   <artifactId>tutorial4</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>maven-archetype</packaging>
 
   <name>tutorial4</name>
     <properties>
